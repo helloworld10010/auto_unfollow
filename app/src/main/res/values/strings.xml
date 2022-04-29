@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">快手自动取关</string>
+    <string name="accessibility_service_label">  自动取消关注  </string>
+    <string name="accessibility_service_description"> 个人自用批量取消关注 </string>
+</resources>
